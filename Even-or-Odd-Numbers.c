@@ -3,10 +3,10 @@
 // function to check even or odd numbers
 int isEven(int a){
   if(a%2==0){
-    printf("\n%d is an even number",a);
+    printf("\n%d is an even number\n",a);
   }
   else{
-    printf("\n%d is an odd number",a);
+    printf("%d is an odd number",a);
   }
 }
 int main()
